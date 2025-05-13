@@ -1,0 +1,12 @@
+2025-05-13 07:59:17,003 - INFO - Using device: cpu
+2025-05-13 07:59:37,455 - INFO - Using device: cpu
+2025-05-13 07:59:38,174 - INFO - Engine run starting with max_epochs=1.
+2025-05-13 07:59:38,668 - ERROR - Current run is terminating due to exception: 'NoneType' object is not subscriptable
+2025-05-13 07:59:38,669 - ERROR - Engine run is terminating due to exception: 'NoneType' object is not subscriptable
+2025-05-13 08:32:08,838 - INFO - Using device: cuda
+2025-05-13 08:32:09,235 - INFO - Engine run starting with max_epochs=1.
+2025-05-13 08:32:09,796 - ERROR - Current run is terminating due to exception: 'numpy.ndarray' object has no attribute 'clear'
+2025-05-13 08:32:09,796 - ERROR - Engine run is terminating due to exception: 'numpy.ndarray' object has no attribute 'clear'
+2025-05-13 08:33:03,268 - INFO - Using device: cuda
+2025-05-13 08:33:03,633 - INFO - Engine run starting with max_epochs=1.
+2025-05-13 09:05:03,146 - ERROR - Engine run is terminating due to exception: 

@@ -1,0 +1,22 @@
+[project]
+name = "chapter2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gymnasium[accept-rom-license,atari]>=1.1.1",
+    "opencv-python>=4.11.0.86",
+    "ptan>=0.4",
+    "pyglet>=2.1.6",
+    "pytorch-ignite>=0.5.2",
+    "tensorboard>=2.19.0",
+    "tensorboardx>=2.6.2.2",
+    "torch>=2.7.0",
+    "torchvision>=0.22.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
