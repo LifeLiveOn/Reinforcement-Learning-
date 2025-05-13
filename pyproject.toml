@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "gymnasium[accept-rom-license,atari]>=1.1.1",
+    "gymnasium[accept-rom-license,atari,classic-control]>=1.1.1",
     "opencv-python>=4.11.0.86",
     "ptan>=0.4",
     "pyglet>=2.1.6",
